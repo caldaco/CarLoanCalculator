@@ -1,4 +1,4 @@
-# Car Loan Calculator🎮
+# Car Loan Calculator 🏎️
 A simple Python program to calculate your estimated monthly car payment based on car price, loan term, down payment, and credit score. The program allows users to input their car details and calculate their monthly car loan payment.
 # How it works
 The program starts by asking for the car price, ensuring it is a positive number.
